@@ -17,6 +17,15 @@ the power of modern programming languages. Using the CDK’s library of
 infrastructure constructs, you can easily encapsulate AWS best practices in your
 infrastructure definition and share it without worrying about boilerplate logic.
 
+The CDK is available in the following languages:
+
+* JavaScript, TypeScript ([Node.js ≥ 10.13.0](https://nodejs.org/download/release/latest-v10.x/))
+  - We recommend using a version in [Active LTS](https://nodejs.org/en/about/releases/)
+  - ⚠️ versions `13.0.0` to `13.6.0` are not supported due to compatibility issues with our dependencies.
+* Python ([Python ≥ 3.6](https://www.python.org/downloads/))
+* Java ([Java ≥ 8](https://www.oracle.com/technetwork/java/javase/downloads/index.html) and [Maven ≥ 3.5.4](https://maven.apache.org/download.cgi))
+* .NET ([.NET Core ≥ 3.1](https://dotnet.microsoft.com/download))
+
 Jump To:
 * [Getting Started](#getting-started)
 * [Getting Help](#getting-help)
@@ -38,15 +47,6 @@ AWS service with constructs that offer rich APIs that encapsulate the details of
 how to use AWS. The AWS Construct Library aims to reduce the complexity and
 glue-logic required when integrating various AWS services to achieve your goals
 on AWS.
-
-The CDK is available in the following languages:
-
-* JavaScript, TypeScript ([Node.js ≥ 10.13.0](https://nodejs.org/download/release/latest-v10.x/))
-  - We recommend using a version in [Active LTS](https://nodejs.org/en/about/releases/)
-  - ⚠️ versions `13.0.0` to `13.6.0` are not supported due to compatibility issues with our dependencies.
-* Python ([Python ≥ 3.6](https://www.python.org/downloads/))
-* Java ([Java ≥ 8](https://www.oracle.com/technetwork/java/javase/downloads/index.html) and [Maven ≥ 3.5.4](https://maven.apache.org/download.cgi))
-* .NET ([.NET Core ≥ 3.1](https://dotnet.microsoft.com/download))
 
 [cdk framework]: https://docs.aws.amazon.com/cdk/api/latest/
 [constructs]: https://docs.aws.amazon.com/cdk/latest/guide/constructs.html
