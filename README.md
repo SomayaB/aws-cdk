@@ -17,6 +17,12 @@ the power of modern programming languages. Using the CDK’s library of
 infrastructure constructs, you can easily encapsulate AWS best practices in your
 infrastructure definition and share it without worrying about boilerplate logic.
 
+Jump To:
+* [Getting Started](#getting-started)
+* [Getting Help](#getting-help)
+* [Contributing](#contributing)
+* [More Resources](#more-resources)
+
 -------
 
 Developers use the [CDK framework] in one of the
@@ -41,12 +47,6 @@ The CDK is available in the following languages:
 * Python ([Python ≥ 3.6](https://www.python.org/downloads/))
 * Java ([Java ≥ 8](https://www.oracle.com/technetwork/java/javase/downloads/index.html) and [Maven ≥ 3.5.4](https://maven.apache.org/download.cgi))
 * .NET ([.NET Core ≥ 3.1](https://dotnet.microsoft.com/download))
-
-Jump To:
-* [Getting Started](#getting-started)
-* [Getting Help](#getting-help)
-* [Contributing](#contributing)
-* [More Resources](#more-resources)
 
 [cdk framework]: https://docs.aws.amazon.com/cdk/api/latest/
 [constructs]: https://docs.aws.amazon.com/cdk/latest/guide/constructs.html
